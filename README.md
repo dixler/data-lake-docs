@@ -1,7 +1,7 @@
 # Datalake Documentation
 This documentation describes a GitOps oriented data lake.
 ## Architecture
-[!image](./imgs/architecture.png)
+![image](./imgs/architecture.png)
 ## Components
 ### Physical Storage Layer(Amazon S3)
 The data is stored in Amazon S3 and contains the following types of assets
